@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreeraam</h1>
-<h3 align="center">A passionate frontend developer from France ReactJS | JavaScript ES6 | Redux | Webpack | Tailwind CSS | Babel</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreeraamgit" alt="shreeraamgit" /></a> </p>
+<h3 margin-bottom="100px" align="center">A passionate frontend developer from France ReactJS | JavaScript ES6 | Redux | Webpack | Tailwind CSS | Babel</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreeraamgit" alt="shreeraamgit" /></a> </p>
 
 - 🔭 I’m currently working on [AudioPhile E-Commerce Web Application](https://github.com/ShreeraamGit/audiophile_ecommerce_v2)
 
