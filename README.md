@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreeraam</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **Eesha Silks (E-Commerce Store)**
+- 🔭 I’m currently working on **Eesha Silks (E-Commerce Store) built using NextJs and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShreeraamGit](https://github.com/ShreeraamGit)
 
