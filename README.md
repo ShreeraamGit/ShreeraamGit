@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreeraam</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on **(E-Commerce Store) built using NextJs, ReactJS, Redux Toolkit, TailwindCSS, Firebase**
+- 🔭 I’m currently working on **(E-Commerce Store) built using NextJs, ReactJS, Redux Toolkit, TailwindCSS, Firebase, Webhooks, Stripe**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShreeraamGit](https://github.com/ShreeraamGit)
 
